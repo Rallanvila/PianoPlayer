@@ -21,4 +21,5 @@ Project is created with:
 ## Setup
 Open up browser and enjoy!
 
-### Allan
+
+Allan Vila

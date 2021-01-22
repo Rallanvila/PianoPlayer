@@ -19,5 +19,5 @@ Project is created with:
 Open up browser and enjoy!
 
 
-
+## That's all Folks!
 *Allan Vila*

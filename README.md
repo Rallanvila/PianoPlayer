@@ -16,6 +16,7 @@ Project is created with:
 * CSS
 	
 ## Setup
+https://rallanvila.github.io/PianoPlayer/.
 Open up browser and enjoy!
 
 
